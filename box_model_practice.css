@@ -1,0 +1,32 @@
+.container {
+    margin: auto;
+    max-width: 750px;
+    box-sizing: border-box;
+    padding-top: 30px;
+    
+}
+
+img {
+    border-radius: 25px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+    width: 200px;
+}
+
+.card-1 {
+    margin-top: 20px;
+    padding: 10px 20px;
+    margin-bottom: 20px ;
+}
+
+.card-2 {
+    padding: 10px 20px;
+    margin-bottom: 20px ;
+}
+
+.card-3 {
+    padding: 10px 20px;   
+}
+
+.info-text p {
+    margin: 0;
+}

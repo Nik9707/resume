@@ -1,0 +1,26 @@
+.card-1 li {
+  margin-bottom: 2px;
+  /* border-bottom: 2px solid blue; */
+  padding: 2px 5px ;
+}
+
+
+table td {
+    /* width:80%; */
+    text-align: center;
+   padding: 3px 7px ;
+}
+
+/* table tr:nth-child(even), table tr:nth-child(odd) {
+    background: red;
+} */
+
+table td:nth-child(2), table td:nth-child(3) {
+    color: #868988;
+}
+table th:nth-child(2), table th:nth-child(3){
+    color: #868988;
+}
+a:hover  {
+  color: red; 
+} 
